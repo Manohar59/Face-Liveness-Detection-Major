@@ -23,7 +23,7 @@ Database: SQLite
 Data Handling: NumPy, Pandas
 
 **📂 Project Structure**
-.
+
 ├── streamlit_app.py
 ├── database/
 ├── captured_faces/
