@@ -1,9 +1,10 @@
-🔐 Face Liveness Detection Based Authentication & Attendance System
-📌 Overview
+**🔐 Face Liveness Detection Based Authentication & Attendance System**
+
+**📌 Overview**
 
 This project is a real-time face recognition system with liveness detection designed to provide secure authentication and automated attendance management. It prevents spoofing attacks using techniques like blink detection and facial movement analysis.
 
-🚀 Features
+**🚀 Features**
 👤 User Enrollment with Face Capture
 🔍 Real-Time Face Detection
 👁️ Liveness Detection (Blink + Movement)
@@ -14,14 +15,14 @@ This project is a real-time face recognition system with liveness detection desi
 ⚠️ Anti-Spoof Detection (Screen/Photo Detection)
 🔄 Reset System Option
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Frontend: Streamlit
 Backend: Python
 Computer Vision: OpenCV, Dlib
 Database: SQLite
 Data Handling: NumPy, Pandas
 
-📂 Project Structure
+**📂 Project Structure**
 .
 ├── streamlit_app.py
 ├── database/
@@ -32,56 +33,59 @@ Data Handling: NumPy, Pandas
 ├── attendance.csv
 ├── requirements.txt
 
-⚙️ Installation
+**⚙️ Installation**
 1. Clone Repository
 git clone https://github.com/https:/github.com/Manohar59/https://github.com/Manohar59/Face-Liveness-Detection-Major.git
 
 
-2. Create Virtual Environment
+**2. Create Virtual Environment**
 python -m venv venv
 venv\Scripts\activate
 
-3. Install Dependencies
+**3. Install Dependencies**
 pip install -r requirements.txt
 
-▶️ Run the Application
+**▶️ Run the Application**
 streamlit run streamlit_app.py
 
-📊 How It Works
+**📊 How It Works**
 Enroll User – Capture face and store embeddings
 Authenticate – Perform liveness detection
 Recognition – Match face with stored data
 Attendance – Automatically mark attendance
 Dashboard – View and export records
 
-🎯 Use Cases
+**🎯 Use Cases**
 🎓 College Attendance Systems
 🏢 Office Employee Monitoring
 🔐 Secure Access Control
 🧠 Biometric Authentication Systems
 
-⚠️ Limitations
+**⚠️ Limitations**
 Performance may vary in low lighting
 Requires webcam access
 Accuracy depends on face visibility
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 🤖 Deep learning-based models
 ☁️ Cloud database integration
 📱 Mobile app support
 👥 Multi-face detection
 🧬 Advanced anti-spoofing
 
-🤝 Contributing
+**🤝 Contributing**
 Contributions are welcome! Fork the repo and submit a pull request.
 
-📜 License
+**📜 License**
 
 This project is licensed under the MIT License.
 
-⭐ Acknowledgements
+**⭐ Acknowledgements**
 OpenCV
 Dlib
 Streamlit
+
+**Visualization Image**
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5d179cf-6583-42e3-9726-cfa6691cb406" />
 
 
