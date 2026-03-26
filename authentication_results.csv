@@ -1,0 +1,173 @@
+Timestamp,Result,Accuracy,FAR,FRR
+2026-03-07 12:17:09,Access Granted,100.00,0.00,0.00
+2026-03-07 12:17:32,Access Granted,100.00,0.00,0.00
+2026-03-07 12:17:33,Access Granted,100.00,0.00,0.00
+2026-03-07 12:17:33,Access Granted,100.00,0.00,0.00
+2026-03-07 23:07:17,Unknown,N/A,Denied
+2026-03-08 12:49:22,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:22,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:22,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:22,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:23,k ,67,Granted,No
+2026-03-08 12:49:23,k ,67,Granted,No
+2026-03-08 12:49:24,m,2,Granted,No
+2026-03-08 12:49:24,m,2,Granted,No
+2026-03-08 12:49:25,km,3,Granted,No
+2026-03-08 12:49:25,m,2,Granted,No
+2026-03-08 12:49:26,k ,67,Granted,No
+2026-03-08 12:49:26,k ,67,Granted,No
+2026-03-08 12:49:27,km,2,Granted,No
+2026-03-08 12:49:27,k ,67,Granted,No
+2026-03-08 12:49:28,k ,67,Granted,No
+2026-03-08 12:49:28,km,3,Granted,No
+2026-03-08 12:49:29,km,2,Granted,No
+2026-03-08 12:49:29,km,3,Granted,No
+2026-03-08 12:49:30,km,3,Granted,No
+2026-03-08 12:49:30,km,2,Granted,No
+2026-03-08 12:49:30,m,2,Granted,No
+2026-03-08 12:49:31,km,3,Granted,No
+2026-03-08 12:49:31,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:32,km,2,Granted,No
+2026-03-08 12:49:32,km,2,Granted,No
+2026-03-08 12:49:33,km,3,Granted,No
+2026-03-08 12:49:33,km,2,Granted,No
+2026-03-08 12:49:33,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:33,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:34,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:34,km,2,Granted,No
+2026-03-08 12:49:34,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:34,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:49:35,km,2,Granted,No
+2026-03-08 12:49:35,km,2,Granted,No
+2026-03-08 12:49:36,m,2,Granted,No
+2026-03-08 12:49:36,km,2,Granted,No
+2026-03-08 12:49:37,km,2,Granted,No
+2026-03-08 12:49:37,km,2,Granted,No
+2026-03-08 12:49:38,m,2,Granted,No
+2026-03-08 12:49:38,m,2,Granted,No
+2026-03-08 12:49:39,km,2,Granted,No
+2026-03-08 12:49:39,m,2,Granted,No
+2026-03-08 12:49:40,m,2,Granted,No
+2026-03-08 12:49:40,km,2,Granted,No
+2026-03-08 12:49:41,m,2,Granted,No
+2026-03-08 12:49:41,km,2,Granted,No
+2026-03-08 12:49:41,km,2,Granted,No
+2026-03-08 12:49:42,m,2,Granted,No
+2026-03-08 12:49:42,km,2,Granted,No
+2026-03-08 12:49:43,km,2,Granted,No
+2026-03-08 12:49:43,m,2,Granted,No
+2026-03-08 12:49:44,km,3,Granted,No
+2026-03-08 12:49:45,m,2,Granted,No
+2026-03-08 12:49:45,m,2,Granted,No
+2026-03-08 12:49:46,km,2,Granted,No
+2026-03-08 12:49:46,km,3,Granted,No
+2026-03-08 12:49:47,k ,67,Granted,No
+2026-03-08 12:49:47,km,3,Granted,No
+2026-03-08 12:49:48,k ,67,Granted,No
+2026-03-08 12:49:48,km,3,Granted,No
+2026-03-08 12:49:49,km,3,Granted,No
+2026-03-08 12:49:50,km,2,Weak match,No
+2026-03-08 12:49:51,k ,67,Weak match,No
+2026-03-08 12:49:51,k ,67,Granted,No
+2026-03-08 12:49:52,k ,67,Granted,No
+2026-03-08 12:49:56,k ,67,Granted,No
+2026-03-08 12:50:04,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:50:04,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:50:05,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 12:50:05,k ,67,Granted,No
+2026-03-08 12:50:06,m,2,Weak match,No
+2026-03-08 12:50:07,km,3,Granted,No
+2026-03-08 12:50:08,k ,67,Weak match,No
+2026-03-08 12:50:12,km,3,Granted,No
+2026-03-08 12:50:12,m,2,Granted,No
+2026-03-08 12:50:13,km,3,Weak match,No
+2026-03-08 12:50:13,km,3,Weak match,No
+2026-03-08 12:50:14,km,3,Granted,No
+2026-03-08 12:50:14,km,3,Granted,No
+2026-03-08 12:50:15,km,3,Granted,No
+2026-03-08 12:50:16,km,3,Weak match,No
+2026-03-08 12:50:16,km,3,Weak match,No
+2026-03-08 12:50:17,km,3,Weak match,No
+2026-03-08 12:50:17,k ,67,Granted,No
+2026-03-08 12:50:18,km,3,Granted,No
+2026-03-08 12:50:18,km,3,Weak match,No
+2026-03-08 12:50:19,km,3,Weak match,No
+2026-03-08 12:50:19,km,3,Granted,No
+2026-03-08 12:50:20,km,3,Granted,No
+2026-03-08 12:50:20,km,3,Granted,No
+2026-03-08 12:50:21,m,2,Granted,No
+2026-03-08 12:50:21,km,3,Granted,No
+2026-03-08 12:50:22,km,3,Granted,No
+2026-03-08 12:50:22,km,3,Weak match,No
+2026-03-08 12:50:23,m,2,Granted,No
+2026-03-08 12:50:23,km,3,Granted,No
+2026-03-08 12:50:24,km,3,Granted,No
+2026-03-08 12:50:25,km,3,Granted,No
+2026-03-08 12:50:25,k ,67,Weak match,No
+2026-03-08 12:50:26,km,3,Granted,No
+2026-03-08 12:50:26,km,3,Granted,No
+2026-03-08 12:50:27,km,3,Granted,No
+2026-03-08 12:50:27,km,3,Weak match,No
+2026-03-08 12:50:28,k ,67,Weak match,No
+2026-03-08 12:50:28,km,3,Granted,No
+2026-03-08 12:50:29,km,3,Weak match,No
+2026-03-08 12:50:29,km,3,Granted,No
+2026-03-08 12:50:30,km,3,Weak match,No
+2026-03-08 12:50:30,km,3,Weak match,No
+2026-03-08 12:50:31,km,3,Granted,No
+2026-03-08 12:50:31,km,3,Granted,No
+2026-03-08 12:50:32,km,3,Weak match,No
+2026-03-08 12:50:32,m,2,Weak match,No
+2026-03-08 12:54:54,m,2,Granted,No,0.400
+2026-03-08 12:54:55,km,2,Granted,No,0.419
+2026-03-08 12:54:55,m,2,Granted,No,0.370
+2026-03-08 12:54:56,m,2,Weak match,No,0.485
+2026-03-08 12:54:56,m,2,Granted,No,0.429
+2026-03-08 12:54:57,m,2,Granted,No,0.395
+2026-03-08 12:54:57,km,3,Granted,No,0.385
+2026-03-08 12:54:58,km,3,Granted,No,0.303
+2026-03-08 12:54:58,m,2,Granted,No,0.325
+2026-03-08 12:54:59,km,3,Granted,No,0.301
+2026-03-08 12:54:59,km,3,Granted,No,0.385
+2026-03-08 12:55:00,km,2,Granted,No,0.356
+2026-03-08 12:55:01,m,2,Granted,No,0.332
+2026-03-08 12:55:01,km,3,Granted,No,0.355
+2026-03-08 12:55:02,km,2,Granted,No,0.407
+2026-03-08 12:55:02,km,2,Weak match,No,0.468
+2026-03-08 12:55:08,Unknown,N/A,Denied � Spoof,Yes,
+2026-03-08 12:55:08,Unknown,N/A,Denied � Spoof,Yes,
+2026-03-08 12:55:09,km,3,Weak match,No,0.526
+2026-03-08 12:55:09,m,2,Weak match,No,0.554
+2026-03-08 12:55:10,m,2,Weak match,No,0.485
+2026-03-08 12:55:10,Unknown,N/A,Denied � Spoof,Yes,
+2026-03-08 12:55:10,m,2,Weak match,No,0.511
+2026-03-08 12:55:11,m,2,Weak match,No,0.569
+2026-03-08 12:55:11,km,3,Weak match,No,0.494
+2026-03-08 12:55:12,m,2,Weak match,No,0.514
+2026-03-08 12:55:12,m,2,Weak match,No,0.485
+2026-03-08 12:55:13,m,2,Weak match,No,0.536
+2026-03-08 12:55:13,m,2,Weak match,No,0.486
+2026-03-08 12:55:14,m,2,Weak match,No,0.478
+2026-03-08 12:55:14,m,2,Weak match,No,0.499
+2026-03-08 12:55:15,k ,67,Weak match,No,0.550
+2026-03-08 12:55:15,m,2,Weak match,No,0.477
+2026-03-08 12:55:16,km,3,Weak match,No,0.526
+2026-03-08 12:55:17,km,3,Weak match,No,0.562
+2026-03-08 12:55:17,km,3,Weak match,No,0.515
+2026-03-08 12:55:18,m,2,Weak match,No,0.485
+2026-03-08 12:55:18,km,3,Weak match,No,0.519
+2026-03-08 12:55:19,m,2,Weak match,No,0.545
+2026-03-08 12:55:19,Unknown,N/A,Denied � Spoof,Yes,
+2026-03-08 12:55:19,m,2,Weak match,No,0.594
+2026-03-08 12:55:20,k ,67,Weak match,No,0.503
+2026-03-08 12:55:20,km,3,Weak match,No,0.500
+2026-03-08 12:55:21,km,3,Weak match,No,0.511
+2026-03-08 12:55:21,km,3,Weak match,No,0.520
+2026-03-08 12:55:22,km,3,Weak match,No,0.533
+2026-03-08 12:55:23,m,2,Weak match,No,0.518
+2026-03-08 12:55:23,km,3,Weak match,No,0.512
+2026-03-08 12:55:23,km,3,Weak match,No,0.503
+2026-03-08 12:55:24,m,2,Weak match,No,0.491
+2026-03-08 13:08:50,Unknown,N/A,Denied � Spoof,Yes
+2026-03-08 13:09:55,kathi,5,Enrolled,No
+2026-03-08 13:11:45,Unknown,N/A,Denied � Spoof,Yes
